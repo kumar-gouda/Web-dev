@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 5px;
+    align-items: center;
+    /* height: 2px; */
+    
+}
