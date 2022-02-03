@@ -1,0 +1,12 @@
+MDN web docs all web tech info
+colorhunt.co color codes
+devdocs.io all langs playground
+emojipedia.org icons png
+
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+selectors in css: class by dot, tag by name, id by hash 
+		

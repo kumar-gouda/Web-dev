@@ -1,6 +1,7 @@
 body {
     background-color: aqua;
 }
+
 hr {
     border-style: dotted none none;
     width: 10%;
@@ -8,4 +9,8 @@ hr {
     align-items: center;
     /* height: 2px; */
     
+}
+
+h1,h3 {
+color: brown;
 }
