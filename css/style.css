@@ -14,3 +14,23 @@ hr {
 h1,h3 {
 color: brown;
 }
+
+.page {
+    color:blueviolet;
+}
+
+.page:hover {
+    color: #000;
+}
+
+.circular {
+    border-radius: 100%;
+}
+.size {
+    height: 100px;
+    width: 100px;
+}
+
+#head3 {
+    color:rgb(196, 89, 89);
+}
