@@ -1,7 +1,13 @@
 MDN web docs all web tech info
 colorhunt.co color codes
 devdocs.io all langs playground
+codepen.io 
 emojipedia.org icons png
+https://favicon.cc favicon creator
+fonts.google.com fonts for embedding
+canva.com graphic design platform
+flaticon.com icons
+giphy.com gifs
 
 <!DOCTYPE html>
 <html lang="en-us">

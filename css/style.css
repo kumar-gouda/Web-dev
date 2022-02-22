@@ -21,6 +21,7 @@ color: brown;
 
 .page:hover {
     color: #000;
+    font-size: larger;
 }
 
 .circular {
