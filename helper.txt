@@ -8,6 +8,8 @@ fonts.google.com fonts for embedding
 canva.com graphic design platform
 flaticon.com icons
 giphy.com gifs
+css3buttongenerator.com generate css buttons
+codeply.com 
 
 <!DOCTYPE html>
 <html lang="en-us">
