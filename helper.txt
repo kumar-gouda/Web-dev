@@ -10,6 +10,11 @@ flaticon.com icons
 giphy.com gifs
 css3buttongenerator.com generate css buttons
 codeply.com 
+ui-patterns.com
+befunky.com resize image
+fontawesome.com icons for website
+bootsnipp.com bootstrap designs
+
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -17,4 +22,8 @@ codeply.com
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 selectors in css: class by dot, tag by name, id by hash 
+media query @media screen
 		
+use ctrl + / to comment
+use ctrl + alt + up/down to multiline cursor
+use shift + alt + F to format document
