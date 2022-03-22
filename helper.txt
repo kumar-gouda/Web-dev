@@ -3,7 +3,7 @@ colorhunt.co color codes
 devdocs.io all langs playground
 codepen.io 
 emojipedia.org icons png
-https://favicon.cc favicon creator
+favicon.cc favicon creator
 fonts.google.com fonts for embedding
 canva.com graphic design platform
 flaticon.com icons
@@ -14,7 +14,6 @@ ui-patterns.com
 befunky.com resize image
 fontawesome.com icons for website
 bootsnipp.com bootstrap designs
-
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -27,3 +26,4 @@ media query @media screen
 use ctrl + / to comment
 use ctrl + alt + up/down to multiline cursor
 use shift + alt + F to format document
+use ctrl + L to select a line
